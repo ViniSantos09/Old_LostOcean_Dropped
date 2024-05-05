@@ -1,2 +1,2 @@
-# Old_LostOcean_Dropped
-[DROPPED] Primeiro projeto para o LostOcean
+# LostOcean_Transicoes_entre_animacoes
+ Colocando transições entre as animações dos personagens
