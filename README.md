@@ -1,2 +1,2 @@
-# Old_LostOcean_Dropped
-[DROPPED] Primeiro projeto para o LostOcean
+# LostOcean_Movement
+ Criando o movimento do personagem principal
