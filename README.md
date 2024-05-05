@@ -1,2 +1,2 @@
-# Old_LostOcean_Dropped
-[DROPPED] Primeiro projeto para o LostOcean
+# LostOcean_BleendTrees
+ Adicionando Blend Trees para as transiçõs de animações
